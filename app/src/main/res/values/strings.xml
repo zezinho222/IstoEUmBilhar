@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bilhar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_apagar">Apagar</string>
+    <string name="title_activity_fullscreen">Fullscreen_Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
